@@ -1,0 +1,14 @@
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\bin\Debug\net8.0\SearchWorkInMatrix.exe
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\bin\Debug\net8.0\SearchWorkInMatrix.deps.json
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\bin\Debug\net8.0\SearchWorkInMatrix.runtimeconfig.json
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\bin\Debug\net8.0\SearchWorkInMatrix.dll
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\bin\Debug\net8.0\SearchWorkInMatrix.pdb
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.AssemblyInfoInputs.cache
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.AssemblyInfo.cs
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.dll
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\refint\SearchWorkInMatrix.dll
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.pdb
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\SearchWorkInMatrix.genruntimeconfig.cache
+C:\Users\essid\source\repos\SearchWorkInMatrix\SearchWorkInMatrix\obj\Debug\net8.0\ref\SearchWorkInMatrix.dll
